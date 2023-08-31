@@ -1,0 +1,2 @@
+#!/bin/bash
+new_owner="vincent"; new_groups="staff"; chown "$new_owner":"$new_group" _hello
