@@ -1,0 +1,2 @@
+#!/bin/bash
+paste -d '\' <(echo {a..z} <(echo {a..z} | grep -Ev 'oo'
